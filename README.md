@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xfalconix?tab=repositories"><img src="https://img.shields.io/github/stars/xfalconix?style=for-the-badge&color=purple" alt="Stars"/></a>
-  <a href="https://github.com/xfalconix?tab=repositories"><img src="https://img.shields.io/badge/Repos-14-blue?style=for-the-badge" alt="Repositories"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=xfalconix&theme=onedark&layout=compact&langs_count=8" alt="Top Langs"/>
 </p>
 
