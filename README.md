@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-theta.vercel.app/api?username=xfalconix&theme=onedark&show_icons=true&count_private=true&hide=contribs" alt="GitHub Stats"/>
+  <a href="https://github.com/xfalconix?tab=repositories"><img src="https://img.shields.io/github/stars/xfalconix?style=for-the-badge&color=purple" alt="Stars"/></a>
+  <a href="https://github.com/xfalconix?tab=repositories"><img src="https://img.shields.io/badge/Repos-14-blue?style=for-the-badge" alt="Repositories"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=xfalconix&theme=onedark&layout=compact&langs_count=8" alt="Top Langs"/>
 </p>
 
@@ -56,7 +58,6 @@ I specialize in building robust data pipelines, training and deploying ML models
 ### 🗂️ Project Management
 ![Atlassian](https://img.shields.io/badge/Atlassian-Jira-0052CC?style=flat-square&logo=atlassian&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white)
-DAMA / DMBOK · PMBOK · Agile · Scrum
 
 ---
 
@@ -68,16 +69,6 @@ DAMA / DMBOK · PMBOK · Agile · Scrum
 | [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Credit card fraud detection with a neural autoencoder (NumPy from scratch) and optimized threshold | Python · NumPy · scikit-learn |
 | [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | Azure Functions for web price scraping with HTTP trigger and automated alerts | Python · Azure Functions · requests |
 | [powerbi-dashboards](https://github.com/xfalconix/powerbi-dashboards) | Business intelligence dashboards for KPI monitoring with Power BI | Power BI · DAX · SQL |
-
----
-
-## 📊 GitHub Metrics
-
-| Metric | Value |
-|--------|-------|
-| Public repositories | 14 |
-| Primary language | Python |
-| This year's contributions | [View activity](https://github.com/xfalconix) |
 
 ---
 
