@@ -55,8 +55,8 @@ Me especializo en construir pipelines de datos robustos, entrenar y desplegar mo
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [churn-mlops-databricks](https://github.com/xfalconix/churn-mlops-databricks) | Pipeline MLOps end-to-end: ingestion, feature engineering, training y serving en Databricks Delta Lake | Python · PySpark · Databricks · Delta Lake · MLflow |
-| [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Detección de fraude en tarjetas de crédito con autoencoder neuronal y umbral optimizado | Python · TensorFlow/Keras · FastAPI |
-| [mlops-model-monitoring](https://github.com/xfalconix/mlops-model-monitoring) | Framework para monitorizar drift de datos y sesgo en modelos en producción | Python · MLflow · EvidentlyAI |
+| [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Detección de fraude en tarjetas de crédito con autoencoder neuronal (NumPy puro) y umbral optimizado | Python · NumPy · scikit-learn |
+| [mlops-model-monitoring](https://github.com/xfalconix/mlops-model-monitoring) | Framework para monitorizar drift de datos y sesgo en modelos en producción | Python · alibi-detect · sklego · scikit-learn |
 | [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | Azure Functions para web scraping con trigger HTTP y alerts automáticas | Python · Azure Functions · requests |
 | [powerbi-dashboards](https://github.com/xfalconix/powerbi-dashboards) | Dashboards de análisis de negocio y visualización de datos con Power BI | Power BI · DAX · SQL |
 
