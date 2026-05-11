@@ -1,4 +1,4 @@
-# 👋 Carlos Falconi — MLOps & Data Engineering
+# 👋 Carlos Falconi - Data, MLOps, GenAI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlosfalconi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,15 +8,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfalconix&theme=onedark&show_icons=true&count_private=true&hide=contribs" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfalconix&theme=onedark&layout=compact&langs_count=8" alt="Top Langs"/>
+  <img src="https://github-readme-stats-theta.vercel.app/api?username=xfalconix&theme=onedark&show_icons=true&count_private=true&hide=contribs" alt="GitHub Stats"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=xfalconix&theme=onedark&layout=compact&langs_count=8" alt="Top Langs"/>
 </p>
 
 ---
 
 ## 🧭 About me
 
-Project engineer with experience in **Oil&Gas and Shipping Ops**, currently transitioning into **Data, AI and MLOps**.
+Project engineer with experience in **Oil&Gas and Shipping Ops**, with a master in **Data, Data Engineering and AI**.
 
 I specialize in building robust data pipelines, training and deploying ML models to production, and automating business processes with Python, Spark and cloud platforms.
 
@@ -39,7 +39,7 @@ I specialize in building robust data pipelines, training and deploying ML models
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Cloud, LLM & MLOps
+### Cloud & MLOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -53,6 +53,11 @@ I specialize in building robust data pipelines, training and deploying ML models
 ### 📊 Data Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
+### 🗂️ Project Management
+![Atlassian](https://img.shields.io/badge/Atlassian-Jira-0052CC?style=flat-square&logo=atlassian&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white)
+DAMA / DMBOK · PMBOK · Agile · Scrum
+
 ---
 
 ## 📂 Featured Projects
@@ -61,7 +66,6 @@ I specialize in building robust data pipelines, training and deploying ML models
 |---------|-------------|-------|
 | [churn-mlops-databricks](https://github.com/xfalconix/churn-mlops-databricks) | End-to-end MLOps pipeline: ingestion, feature engineering, training & serving on Databricks Delta Lake | Python · PySpark · Databricks · Delta Lake · MLflow |
 | [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Credit card fraud detection with a neural autoencoder (NumPy from scratch) and optimized threshold | Python · NumPy · scikit-learn |
-| [mlops-model-monitoring](https://github.com/xfalconix/mlops-model-monitoring) | Framework to monitor data drift and model bias in production | Python · alibi-detect · sklego · scikit-learn |
 | [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | Azure Functions for web price scraping with HTTP trigger and automated alerts | Python · Azure Functions · requests |
 | [powerbi-dashboards](https://github.com/xfalconix/powerbi-dashboards) | Business intelligence dashboards for KPI monitoring with Power BI | Power BI · DAX · SQL |
 
@@ -70,7 +74,7 @@ I specialize in building robust data pipelines, training and deploying ML models
 ## 📊 GitHub Metrics
 
 | Metric | Value |
-|---------|-------|
+|--------|-------|
 | Public repositories | 14 |
 | Primary language | Python |
 | This year's contributions | [View activity](https://github.com/xfalconix) |
