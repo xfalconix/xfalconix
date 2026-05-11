@@ -14,19 +14,19 @@
 
 ---
 
-## 🧭 Sobre mí
+## 🧭 About me
 
-Ingeniero de proyectos con experiencia en **Oil&Gas y Shipping Ops**, actualmente en transición hacia **Data, AI y MLOps**.
+Project engineer with experience in **Oil&Gas and Shipping Ops**, currently transitioning into **Data, AI and MLOps**.
 
-Me especializo en construir pipelines de datos robustos, entrenar y desplegar modelos de ML en producción, y automatizar procesos de negocio con Python, Spark y cloud platforms.
+I specialize in building robust data pipelines, training and deploying ML models to production, and automating business processes with Python, Spark and cloud platforms.
 
-> *"De la industria pesada a la inteligencia artificial: transformo datos en decisiones."*
+> *"From heavy industry to artificial intelligence: I transform data into decisions."*
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### Lenguajes & Frameworks
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -55,46 +55,46 @@ Me especializo en construir pipelines de datos robustos, entrenar y desplegar mo
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [churn-mlops-databricks](https://github.com/xfalconix/churn-mlops-databricks) | Pipeline MLOps end-to-end: ingestion, feature engineering, training y serving en Databricks Delta Lake | Python · PySpark · Databricks · Delta Lake · MLflow |
-| [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Detección de fraude en tarjetas de crédito con autoencoder neuronal (NumPy puro) y umbral optimizado | Python · NumPy · scikit-learn |
-| [mlops-model-monitoring](https://github.com/xfalconix/mlops-model-monitoring) | Framework para monitorizar drift de datos y sesgo en modelos en producción | Python · alibi-detect · sklego · scikit-learn |
-| [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | Azure Functions para web scraping con trigger HTTP y alerts automáticas | Python · Azure Functions · requests |
-| [powerbi-dashboards](https://github.com/xfalconix/powerbi-dashboards) | Dashboards de análisis de negocio y visualización de datos con Power BI | Power BI · DAX · SQL |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [churn-mlops-databricks](https://github.com/xfalconix/churn-mlops-databricks) | End-to-end MLOps pipeline: ingestion, feature engineering, training & serving on Databricks Delta Lake | Python · PySpark · Databricks · Delta Lake · MLflow |
+| [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Credit card fraud detection with a neural autoencoder (NumPy from scratch) and optimized threshold | Python · NumPy · scikit-learn |
+| [mlops-model-monitoring](https://github.com/xfalconix/mlops-model-monitoring) | Framework to monitor data drift and model bias in production | Python · alibi-detect · sklego · scikit-learn |
+| [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | Azure Functions for web price scraping with HTTP trigger and automated alerts | Python · Azure Functions · requests |
+| [powerbi-dashboards](https://github.com/xfalconix/powerbi-dashboards) | Business intelligence dashboards for KPI monitoring with Power BI | Power BI · DAX · SQL |
 
 ---
 
-## 📊 Métricas de GitHub
+## 📊 GitHub Metrics
 
-| Métrica | Valor |
+| Metric | Value |
 |---------|-------|
-| Repositorios públicos | 14 |
-| Lenguaje principal | Python |
-| Contribuciones este año | [Ver actividad](https://github.com/xfalconix) |
+| Public repositories | 14 |
+| Primary language | Python |
+| This year's contributions | [View activity](https://github.com/xfalconix) |
 
 ---
 
-## 📚 Formación & Certificaciones
+## 📚 Education & Certifications
 
 - **Master in Big Data, Data Engineering and AI** — ESESA Business School (2025-2026)
 - **MLOps Essentials: Monitoring Model Drift and Bias** — LinkedIn Learning
 - **Complete Guide to Python Fundamentals for MLOps** — LinkedIn Learning
-- **Formación 42 Málaga** — Fundación Telefónica (C, Linux, DevOps)
+- **42 Málaga** — Fundación Telefónica (C, Linux, DevOps)
 
 ---
 
-## 🌱 Actualmente Aprendiendo
+## 🌱 Currently Learning
 
-- **LLMOps** — Fine-tuning de LLMs con Hugging Face PEFT/trl
-- **Real-Time ML** — Streaming con Spark Structured Streaming + Kafka
-- **ML System Design** — Patrones arquitectónicos para producción
+- **LLMOps** — Fine-tuning LLMs with Hugging Face PEFT/trl
+- **Real-Time ML** — Streaming with Spark Structured Streaming + Kafka
+- **ML System Design** — Architectural patterns for production
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlosfalconi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
