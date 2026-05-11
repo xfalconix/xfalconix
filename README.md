@@ -55,10 +55,10 @@ Me especializo en construir pipelines de datos robustos, entrenar y desplegar mo
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [churn-mlops-databricks](https://github.com/xfalconix/churn-mlops-databricks) | Pipeline MLOps end-to-end: ingestion, feature engineering, training y serving en Databricks Delta Lake | Python · PySpark · Databricks · Delta Lake · MLflow |
-| [fraud-detection-api](https://github.com/xfalconix/Creditcard_fraud_prediction) | API de detección de fraude en tarjetas de crédito con modelos de ensemble y umbral optimizado | Python · scikit-learn · FastAPI |
-| [mlops-model-monitoring](https://github.com/xfalconix/MLOps-Monitoring-Model-Drift-and-Bias) | Framework para monitorizar drift de datos y sesgo en modelos en producción | Python · MLflow · EvidentlyAI |
-| [azure-price-scraper](https://github.com/xfalconix/Azure-functions---http-trigger---web-price) | Azure Functions para web scraping con trigger HTTP y alerts automáticas | Python · Azure Functions · Azure Cosmos DB |
-| [powerbi-dashboards](https://github.com/xfalconix/PowerBI-Projects) | Dashboards de análisis de negocio y visualización de datos | Power BI · DAX · SQL |
+| [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Detección de fraude en tarjetas de crédito con autoencoder neuronal y umbral optimizado | Python · TensorFlow/Keras · FastAPI |
+| [mlops-model-monitoring](https://github.com/xfalconix/mlops-model-monitoring) | Framework para monitorizar drift de datos y sesgo en modelos en producción | Python · MLflow · EvidentlyAI |
+| [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | Azure Functions para web scraping con trigger HTTP y alerts automáticas | Python · Azure Functions · requests |
+| [powerbi-dashboards](https://github.com/xfalconix/powerbi-dashboards) | Dashboards de análisis de negocio y visualización de datos con Power BI | Power BI · DAX · SQL |
 
 ---
 
