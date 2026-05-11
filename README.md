@@ -30,22 +30,27 @@ Me especializo en construir pipelines de datos robustos, entrenar y desplegar mo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-### Data & ML
+### Data, ML & DL
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Cloud & DevOps
+### Cloud, LLM & MLOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### APIs & Notebooks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### 📊 Data Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
@@ -74,7 +79,7 @@ Me especializo en construir pipelines de datos robustos, entrenar y desplegar mo
 
 ## 📚 Formación & Certificaciones
 
-- **Master en Big Data & Machine Learning** — ESESA Business School (2025)
+- **Master in Big Data, Data Engineering and AI** — ESESA Business School (2025-2026)
 - **MLOps Essentials: Monitoring Model Drift and Bias** — LinkedIn Learning
 - **Complete Guide to Python Fundamentals for MLOps** — LinkedIn Learning
 - **Formación 42 Málaga** — Fundación Telefónica (C, Linux, DevOps)
@@ -99,5 +104,5 @@ Me especializo en construir pipelines de datos robustos, entrenar y desplegar mo
 ---
 
 <p align="center">
-  <i>⭐ Open to opportunities in Data Engineering, MLOps, and AI — Málaga, Spain</i>
+  <i>⭐ Open to opportunities in Data roles — Product / LLM / MLOps — Málaga, Spain</i>
 </p>
