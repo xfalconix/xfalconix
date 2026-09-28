@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlosfalconi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:carlosfalconidatas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Málaga-ES-blue?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-MLOps🚀-purple?style=for-the-badge" alt="Focus"/>
 </p>
@@ -65,7 +64,6 @@ Tools explored through coursework and projects; the repository descriptions expl
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [churn-mlops-databricks](https://github.com/xfalconix/churn-mlops-databricks) | Learning project covering data preparation, model training, MLflow tracking and Databricks serving | Python · PySpark · Databricks · Delta Lake · MLflow |
-| [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Academic fraud-detection experiment using a dense Keras autoencoder | Python · Keras · scikit-learn |
 | [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | HTTP-triggered Azure Function for extracting product names and prices from compatible HTML | Python · Azure Functions · requests |
 | [powerbi-dashboards](https://github.com/xfalconix/powerbi-dashboards) | Business intelligence dashboards for KPI monitoring with Power BI | Power BI · DAX · SQL |
 
@@ -74,6 +72,7 @@ Tools explored through coursework and projects; the repository descriptions expl
 ## 📚 Education & Certifications
 
 - **Master in Big Data, Data Engineering and AI** — ESESA Business School (2025-2026)
+- **[Financial Analysis and Modeling Professional Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7484769761759940608/)** — Corporate Finance Institute (CFI), LinkedIn Learning
 - **MLOps Essentials: Monitoring Model Drift and Bias** — LinkedIn Learning
 - **Complete Guide to Python Fundamentals for MLOps** — LinkedIn Learning
 - **42 Málaga** — Fundación Telefónica (C, Linux, DevOps)
@@ -98,5 +97,5 @@ Tools explored through coursework and projects; the repository descriptions expl
 ---
 
 <p align="center">
-  <i>⭐ Open to opportunities in Data roles — Product / LLM / MLOps — Málaga, Spain</i>
+  <i>⭐ Open to opportunities in Data roles — Product / MLOps — Málaga, Spain</i>
 </p>
