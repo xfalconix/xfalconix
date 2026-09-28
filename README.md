@@ -27,6 +27,7 @@ I bring experience in project coordination and operational analysis, complemente
 ### Languages & Frameworks
 
 Tools explored through coursework and projects; the repository descriptions explain their scope.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -34,7 +35,6 @@ Tools explored through coursework and projects; the repository descriptions expl
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 ### Data, ML & DL
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
