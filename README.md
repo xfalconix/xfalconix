@@ -17,7 +17,7 @@
 
 Project engineer with experience in **Oil&Gas and Shipping Ops**, with a master in **Data, Data Engineering and AI**.
 
-I specialize in building robust data pipelines, training and deploying ML models to production, and automating business processes with Python, Spark and cloud platforms.
+I bring experience in project coordination and operational analysis, complemented by academic and personal projects in Python, machine learning, Power BI and cloud deployment. My portfolio includes learning projects and prototypes using Azure, Databricks and MLflow.
 
 > *"From heavy industry to artificial intelligence: I transform data into decisions."*
 
@@ -26,6 +26,8 @@ I specialize in building robust data pipelines, training and deploying ML models
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+
+Tools explored through coursework and projects; the repository descriptions explain their scope.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -62,9 +64,9 @@ I specialize in building robust data pipelines, training and deploying ML models
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [churn-mlops-databricks](https://github.com/xfalconix/churn-mlops-databricks) | End-to-end MLOps pipeline: ingestion, feature engineering, training & serving on Databricks Delta Lake | Python · PySpark · Databricks · Delta Lake · MLflow |
-| [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Credit card fraud detection with a neural autoencoder (NumPy from scratch) and optimized threshold | Python · NumPy · scikit-learn |
-| [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | Azure Functions for web price scraping with HTTP trigger and automated alerts | Python · Azure Functions · requests |
+| [churn-mlops-databricks](https://github.com/xfalconix/churn-mlops-databricks) | Learning project covering data preparation, model training, MLflow tracking and Databricks serving | Python · PySpark · Databricks · Delta Lake · MLflow |
+| [fraud-detection-api](https://github.com/xfalconix/fraud-detection-api) | Academic fraud-detection experiment using a dense Keras autoencoder | Python · Keras · scikit-learn |
+| [azure-price-scraper](https://github.com/xfalconix/azure-price-scraper) | HTTP-triggered Azure Function for extracting product names and prices from compatible HTML | Python · Azure Functions · requests |
 | [powerbi-dashboards](https://github.com/xfalconix/powerbi-dashboards) | Business intelligence dashboards for KPI monitoring with Power BI | Power BI · DAX · SQL |
 
 ---
@@ -80,9 +82,9 @@ I specialize in building robust data pipelines, training and deploying ML models
 
 ## 🌱 Currently Learning
 
-- **LLMOps** — Fine-tuning LLMs with Hugging Face PEFT/trl
-- **Real-Time ML** — Streaming with Spark Structured Streaming + Kafka
-- **ML System Design** — Architectural patterns for production
+- **Python and machine learning** — Strengthening fundamentals and model evaluation
+- **MLOps** — Experiment tracking, serving and reproducible workflows
+- **RAG** — Retrieval, generation and evaluation in small prototypes
 
 ---
 
